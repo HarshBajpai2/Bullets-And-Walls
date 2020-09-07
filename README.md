@@ -1,2 +1,2 @@
-# Bullets-And-Walls
-I have made a game based on the previous GCSO game. Hope you liked it !!
+# p5.play-boilerplate
+Boiler plate for p5.play
